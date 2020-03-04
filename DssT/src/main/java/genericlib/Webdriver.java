@@ -2,7 +2,9 @@ package genericlib;
 
 public class Webdriver {
 	
-	public void waitforPageToLoad() {
+	public void waitforPageToLoad()
+	{
+		System.out.println("Hai");
 		
 	}
 
